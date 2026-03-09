@@ -36,9 +36,10 @@ https://drive.google.com/drive/folders/13pF5zimevnTMVNGtjtt7F-dXUbQ4Ngm5?usp=sha
 
 Instructions:
 
-1. Download the file 
-2. Extract zip folders
-3. Replace those folders with existing ones in *sample_dataset/* folder
+1. Download the dataset zip file from Google Drive.
+2. Extract the zip file.
+3. Replace the folders inside the `sample_dataset/` directory with the extracted folders.
+4. Replace the `test.csv` file in the `outputs/` directory with the `test.csv` from the downloaded dataset.
 
 **NOTE**: For questions or dataset access issues, please open a GitHub Issue or contact the maintainer at: malygos92ysera@gmail.com
 
