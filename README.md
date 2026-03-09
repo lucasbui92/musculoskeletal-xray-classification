@@ -11,7 +11,7 @@ The system loads X-ray images, preprocesses them, trains and generates predictio
 
 ---
 
-# Installation
+## Installation
 
 Create and activate a virtual environment:
 
@@ -26,7 +26,7 @@ Install dependencies:
 pip install torch torchvision scikit-learn pandas numpy pillow
 ```
 
-# Dataset
+## Dataset
 
 The dataset used for training and testing is not included in this repository due to its size.
 
@@ -45,7 +45,7 @@ Instructions:
 
 ---
 
-# Running the Project
+## Running the Project
 
 Run the full pipeline using:
 
@@ -71,7 +71,7 @@ outputs/test.csv
 
 ---
 
-# Output Files
+## Output Files
 
 | File | Description |
 |-----|-------------|
@@ -80,7 +80,7 @@ outputs/test.csv
 
 ---
 
-# Model Training
+## Model Training
 
 The training process includes:
 
