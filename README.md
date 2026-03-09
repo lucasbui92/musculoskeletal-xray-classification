@@ -26,6 +26,22 @@ Install dependencies:
 pip install torch torchvision scikit-learn pandas numpy pillow
 ```
 
+# Dataset
+
+The dataset used for training and testing is not included in this repository due to its size.
+
+You can download the full dataset from Google Drive:
+ 
+https://drive.google.com/drive/folders/13pF5zimevnTMVNGtjtt7F-dXUbQ4Ngm5?usp=sharing
+
+Instructions:
+
+1. Download the file 
+2. Extract zip folders
+3. Replace those folders with existing ones in *sample_dataset/* folder
+
+**NOTE**: For questions or dataset access issues, please open a GitHub Issue or contact the maintainer at: malygos92ysera@gmail.com
+
 ---
 
 # Running the Project
